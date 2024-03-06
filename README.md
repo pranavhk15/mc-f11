@@ -21,4 +21,5 @@ After installation, the script provides the following functionalities:
 - Toggle Key Right (X by default): Toggles the ability to move right.
 - Toggle Key Left (Z by default): Toggles the ability to move left.
 - Global Functionality Toggle Command (/togglemove): Enables or disables all custom keybind functionalities.
-To modify the default keybinds, look for the "Move Toggle" Category in your Minecraft controls/keybinds menu.
+
+### To modify the default keybinds, look for the "Move Toggle" Category in your Minecraft controls/keybinds menu.
